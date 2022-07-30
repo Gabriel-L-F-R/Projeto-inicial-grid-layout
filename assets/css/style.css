@@ -8,21 +8,16 @@
         "rodape";
     grid-template-columns: auto;
     grid-template-rows: 50px 100vh auto;
-
-    color: #f1f1f1;
 }
 
 .cabecalho {
-    background: #00cc99;
     grid-area: cabecalho;
 }
  
 .conteudo {
-    background: #900;
     grid-area: conteudo;
 }
 
 .rodape {
-    background: #009;
     grid-area: rodape;
 }
